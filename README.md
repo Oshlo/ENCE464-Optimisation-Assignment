@@ -1,8 +1,8 @@
 
-ENCE461 Assignment 2 Template
-=============================
+#ENCE464 Assignment 2: Optimisation and Multithreading
 
-See assignment instructions [here](doc/instructions.pdf)
+
+See assignment instructions [here](doc/instrucions/instructions.pdf)
 
 Contents
  - `doc/` - assignment instructions, lab notes, report template.
